@@ -1,4 +1,4 @@
-current_locale=zh-TW
+current_locale=zh-TW222222
 translate_subtitles_youtube=false
 domain_translate_list={}
 default_lang_to=auto
